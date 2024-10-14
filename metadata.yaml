@@ -1,0 +1,39 @@
+_repo: David-goes-voyaging_74551
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Cooper, Isabel
+    gutenberg_agent_id: '57543'
+    url: http://www.gutenberg.org/2009/agents/57543
+  - agent_name: Dickerman, Don
+    gutenberg_agent_id: '57544'
+    url: http://www.gutenberg.org/2009/agents/57544
+  - agent_name: Franklin, Dwight
+    gutenberg_agent_id: '57545'
+    url: http://www.gutenberg.org/2009/agents/57545
+creator:
+  author:
+    agent_name: Putnam, David Binney
+    gutenberg_agent_id: '57542'
+    url: http://www.gutenberg.org/2009/agents/57542
+description: ''
+gutenberg_issued: '2024-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74551'
+language: en
+pgterms:marc904: https://archive.org/details/bwb_O7-CAV-211/page/n7/mode/2up
+pgterms:marc905: 20240604120335putnam
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bG. P. Putnam''s Sons, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: David goes voyaging
+url: http://www.gutenberg.org/ebooks/74551
