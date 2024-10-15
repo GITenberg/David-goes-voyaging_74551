@@ -11,12 +11,17 @@ contributor:
   - agent_name: Franklin, Dwight
     gutenberg_agent_id: '57545'
     url: http://www.gutenberg.org/2009/agents/57545
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Putnam, David Binney
     gutenberg_agent_id: '57542'
     url: http://www.gutenberg.org/2009/agents/57542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74551#David-goes-voyaging
 gutenberg_issued: '2024-10-10'
 gutenberg_type: Text
 identifiers:
